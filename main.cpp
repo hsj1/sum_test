@@ -9,5 +9,3 @@ int main(){
 	cout << sum(a) << endl;
 	return 0; 
 }
-
-
